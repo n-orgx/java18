@@ -4,7 +4,7 @@ import java.text.NumberFormat;
 
 public class Kvadrat {
 
-    static double b = 5.2;
+    static double b;
     double area;
 
     public Kvadrat() {
