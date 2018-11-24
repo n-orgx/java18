@@ -35,3 +35,4 @@ public class Kvadrat {
 	System.out.println("THE AREAN AV KVADRATEN :" + kv.area());
     }
 }
+// voila un code sur git 
